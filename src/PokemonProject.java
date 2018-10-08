@@ -45,6 +45,6 @@ public class PokemonProject {
 	    System.out.println("SP. DEF " +spdef);
 	    System.out.println("SPEED " +speed);
         System.out.println("------------------------------");
-
+        System.out.println("Moves Learned: " + move1 + ", " + move2 + ", " + move3 + ", " + move4);
 	}
 }
